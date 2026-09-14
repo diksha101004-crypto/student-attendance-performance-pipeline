@@ -1,0 +1,31 @@
+student_id,subject,marks
+101,Python,85
+101,DBMS,78
+101,Data Structures,82
+102,Python,92
+102,DBMS,88
+102,Data Structures,90
+103,Python,67
+103,DBMS,72
+103,Data Structures,70
+104,Python,89
+104,DBMS,94
+104,Data Structures,91
+105,Python,75
+105,DBMS,68
+105,Data Structures,72
+106,Python,88
+106,DBMS,84
+106,Data Structures,86
+107,Python,65
+107,DBMS,70
+107,Data Structures,68
+108,Python,95
+108,DBMS,91
+108,Data Structures,93
+109,Python,78
+109,DBMS,81
+109,Data Structures,76
+110,Python,82
+110,DBMS,79
+110,Data Structures,85
